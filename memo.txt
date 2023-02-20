@@ -5,5 +5,5 @@ python -m pip install --upgrade pip --trusted-host pypi.org --trusted-host files
 pip install jupyter --trusted-host pypi.org --trusted-host files.pythonhosted.org
 
 3.패키지 설치
-pip install pyautogui clipboard datetime selenium opencv-python pillow openpyxl pandas lxml xlrd html5lib chardet --trusted-host pypi.org --trusted-host files.pythonhosted.org
+pip install pyautogui clipboard datetime selenium opencv-python pillow openpyxl python-pptx pandas lxml xlrd html5lib chardet --trusted-host pypi.org --trusted-host files.pythonhosted.org
 
